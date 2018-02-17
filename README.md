@@ -1,3 +1,3 @@
-# MVVM is a project to demonstrate Model View View Model Architecture.
+# MVVM is a android project to demonstrate Model View View Model Architecture.
 
 
