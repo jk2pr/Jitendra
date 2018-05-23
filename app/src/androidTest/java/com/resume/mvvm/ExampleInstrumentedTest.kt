@@ -1,4 +1,4 @@
-package com.resume.jitendra
+package com.resume.mvvm
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

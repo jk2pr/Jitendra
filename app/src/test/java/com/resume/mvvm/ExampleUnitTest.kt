@@ -1,4 +1,4 @@
-package com.resume.jitendra
+package com.resume.mvvm
 
 import org.junit.Test
 
