@@ -30,7 +30,6 @@ class ProfileActivity : AppCompatActivity() {
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
-
         menuInflater.inflate(R.menu.menu_profile, menu)
         return true
     }
